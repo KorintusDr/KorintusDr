@@ -10,7 +10,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/korintus datu rapang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="korintus datu rapang" height="30" width="40" /></a>
 <a href="https://fb.com/korintus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="korintus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tekno web id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tekno web id" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
