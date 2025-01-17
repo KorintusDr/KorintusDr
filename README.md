@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Korintus Datu Rapang</h1>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fpudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh&psig=AOvVaw2lR5gVIonmkI9Enf13btPr&ust=1737225506411000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC3iL-z_YoDFQAAAAAdAAAAABAR">
+<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fpudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh&psig=AOvVaw2lR5gVIonmkI9Enf13btPr&ust=1737225506411000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNC3iL-z_YoDFQAAAAAdAAAAABAR](https://media1.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=6c09b95221rdeemphul4lq11uvtz7klc3abkeoi6h79dmkx8&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korintusdr&label=Profile%20views&color=0e75b6&style=flat" alt="korintusdr" /> </p>
 
